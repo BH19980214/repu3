@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\juli\juli\bin\Debug\juli.exe.config
+C:\Users\ASUS\source\repos\juli\juli\bin\Debug\juli.exe
+C:\Users\ASUS\source\repos\juli\juli\bin\Debug\juli.pdb
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.Form1.resources
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.Properties.Resources.resources
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.exe
+C:\Users\ASUS\source\repos\juli\juli\obj\Debug\juli.pdb
