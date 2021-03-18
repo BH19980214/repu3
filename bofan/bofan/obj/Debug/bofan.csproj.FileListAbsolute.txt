@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\bofan\bofan\bin\Debug\bofan.exe.config
+C:\Users\ASUS\source\repos\bofan\bofan\bin\Debug\bofan.exe
+C:\Users\ASUS\source\repos\bofan\bofan\bin\Debug\bofan.pdb
+C:\Users\ASUS\source\repos\bofan\bofan\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\bofan\bofan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.Form1.resources
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.Properties.Resources.resources
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.exe
+C:\Users\ASUS\source\repos\bofan\bofan\obj\Debug\bofan.pdb
